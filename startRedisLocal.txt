@@ -1,0 +1,18 @@
+1> Go to Redis directory on cmd.
+
+2> Type command "redis-server" , to start redis.
+
+3> Open another cmd tool and Type command "redis-cli.exe" to run redis on cmd tool
+
+4> Type "redis-cli shutdown" to turn off redis server
+
+
+
+
+See redis gui
+
+-- First you have to install redis-commander node package globally in your system
+-- To ckeck type "npm list -g"
+
+-- Then type "redis-commander" in cmd
+-- It'll provide you port to redis gui like ("http://127.0.0.1:8081") in my case
