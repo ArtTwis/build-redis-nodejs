@@ -1,0 +1,24 @@
+{
+  "name": "build-redis-nodejs",
+  "version": "1.0.0",
+  "description": "we will build a user management application using Node.js and Redis which is an open source database/caching system. We will be able to add users to the system and search for them by id.",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArtTwis/build-redis-nodejs.git"
+  },
+  "author": "ArtTwis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArtTwis/build-redis-nodejs/issues"
+  },
+  "homepage": "https://github.com/ArtTwis/build-redis-nodejs#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19",
+    "redis": "^4.3.0"
+  }
+}
