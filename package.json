@@ -18,6 +18,7 @@
   "homepage": "https://github.com/ArtTwis/build-redis-nodejs#readme",
   "dependencies": {
     "express": "^4.18.1",
+    "node-fetch": "^2.6.0",
     "nodemon": "^2.0.19",
     "redis": "^4.3.0"
   }
